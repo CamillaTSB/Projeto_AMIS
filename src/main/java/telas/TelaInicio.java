@@ -1,7 +1,8 @@
 package telas;
 
 public class TelaInicio extends javax.swing.JFrame {
-
+    // Teste de Versionamento Git - adição de comentários ao projeto 
+    
     public TelaInicio() {
         initComponents();
     }
@@ -201,7 +202,6 @@ public class TelaInicio extends javax.swing.JFrame {
         }
         //</editor-fold>
         new TelaInicio().setVisible(true);
-        // 
     }
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
